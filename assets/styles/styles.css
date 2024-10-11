@@ -20,7 +20,7 @@
   body {
     line-height: 1.5;
     -webkit-font-smoothing: antialiased;
-    color: lightgray;
+
   }
   
   /*
@@ -65,9 +65,7 @@
     margin: 12px auto;
   }
  
-  header > div {
 
-  } 
 
   header > div > a {
     display: inline-block;
